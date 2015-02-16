@@ -1,0 +1,11 @@
+.place {
+  color:blue;
+}
+
+.place:hover {
+  text-decoration: underline;
+}
+
+#description{
+  display: none;
+}
